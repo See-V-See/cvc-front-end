@@ -491,7 +491,6 @@ a.rotate-box-2:hover {
 }
 
 .testimonial .cover {
-
 }
 .testimonial-inner {
   position: relative;
@@ -1158,8 +1157,7 @@ p.subtitle {
   transform: rotate(-45deg);
 }
 /* ===== End buttons ===== */
-.image-wrapper{
-	display: flex;
-	justify-content: space-around;
-	
+.image-wrapper {
+  display: flex;
+  justify-content: space-around;
 }
